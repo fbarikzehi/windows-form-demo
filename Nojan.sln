@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nojan.Data", "Nojan.Data\Nojan.Data.csproj", "{38065B73-88E8-4D5E-995A-551B8B480D08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nojan.Shared", "Nojan.Shared\Nojan.Shared.csproj", "{5590136D-8F98-41B2-BD05-810CA07F7D74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nojan.Ui", "Nojan.Ui\Nojan.Ui.csproj", "{CE66BC37-25A9-483B-BB33-DDE676B49353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38065B73-88E8-4D5E-995A-551B8B480D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38065B73-88E8-4D5E-995A-551B8B480D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38065B73-88E8-4D5E-995A-551B8B480D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38065B73-88E8-4D5E-995A-551B8B480D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5590136D-8F98-41B2-BD05-810CA07F7D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5590136D-8F98-41B2-BD05-810CA07F7D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5590136D-8F98-41B2-BD05-810CA07F7D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5590136D-8F98-41B2-BD05-810CA07F7D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE66BC37-25A9-483B-BB33-DDE676B49353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE66BC37-25A9-483B-BB33-DDE676B49353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE66BC37-25A9-483B-BB33-DDE676B49353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE66BC37-25A9-483B-BB33-DDE676B49353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB5CB2D1-A25A-49B4-AE21-28265DF559FC}
+	EndGlobalSection
+EndGlobal
