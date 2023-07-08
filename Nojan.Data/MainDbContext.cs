@@ -15,7 +15,7 @@ namespace Nojan.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=.;Initial Catalog=nojan;Persist Security Info=True;User ID=sa;Password=Dev_1234@4321;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer(@"Data Source=.;Initial Catalog=nojan;Persist Security Info=True;User ID=sa;Password=abc_123465;TrustServerCertificate=True");
         }
 
     }
