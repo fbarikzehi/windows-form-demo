@@ -1,5 +1,5 @@
 # windows-form-demo
-This sample demo project for c# and windows form.
+This is sample demo project for c# and windows form.
 
 ## Requirements
 
